@@ -72,8 +72,7 @@ Application de l'algorithme **CRH zonal** (résolution de conflits sur données 
 ### `environments.txt`
 Liste des **dépendances Python** nécessaires à l'exécution du projet (voir section Installation ci-dessous).
 
-### `.gitignore`
-Exclusion des fichiers non versionnés (caches, fichiers temporaires, données volumineuses).
+
 
 
 
